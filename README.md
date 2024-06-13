@@ -14,6 +14,10 @@ Proyek ini adalah sebuah Sistem Informasi Absensi Karyawan Gudang yang menggunak
 - **Keamanan Data:** Data karyawan dan laporan kehadiran disimpan dengan aman.
 - **Notifikasi:** Kirim notifikasi email untuk kehadiran terlambat atau tidak hadir.
 
+## Demo
+
+Anda dapat melihat demo aplikasi ini secara online di [sini](https://himmatululya.my.id/).
+
 ## Teknologi yang Digunakan
 
 - **Bahasa Pemrograman:** HTML, CSS, JavaScript, PHP
